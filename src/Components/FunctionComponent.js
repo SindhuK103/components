@@ -11,8 +11,7 @@ function Hooks(){
       <button onClick = { ()=> setCounter(counter+1)}> {counter}</button>
       </div>
     );
-
-    
+  
 }
   
 export default Hooks;
